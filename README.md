@@ -24,13 +24,13 @@ Initializing the Application: Develop an initialization function that guides use
 ## Links
 
 Github link- https://github.com/splacito22/starseed
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ​
 
 ## Credits
 
 https://www.npmjs.com/package/inquirer
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ## License
 
